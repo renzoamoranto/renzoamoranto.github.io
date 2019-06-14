@@ -913,7 +913,5 @@ ul {
 }
 
 .animated {
-  -webkit-animation-duration: 500ms;
-  -moz-animation-duration: 500ms;
-  animation-duration: 500ms;
+  animation-delay: 2s;
 }
