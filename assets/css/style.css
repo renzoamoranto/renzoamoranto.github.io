@@ -911,3 +911,9 @@ ul {
 	}
 
 }
+
+.animated {
+  -webkit-animation-duration: 200ms;
+  -moz-animation-duration: 200ms;
+  animation-duration: 200ms;
+}
